@@ -34,7 +34,7 @@ Each lesson folder contains:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/HTML-lessons.git
+    git clone https://github.com/komoireashiraf/HTML-lessons.git
     ```
 
 2. Open the individual lesson files in your browser or a code editor to begin exploring and practicing.
