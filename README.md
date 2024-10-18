@@ -2,7 +2,7 @@
 
 This repository contains my personal journey through learning and mastering HTML. Each lesson is designed to build upon the previous one, with practical examples and projects to enhance your understanding of the fundamentals of web development.
 
-## Table of Contents
+## Table of Contents.
 
 1. [Overview](#overview)
 2. [Lesson Structure](#lesson-structure)
